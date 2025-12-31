@@ -1,14 +1,17 @@
-# FLASK ROUTES
-Creating routes in flask
+# 🌐 Simple Flask App
 
-The objective of this code is define routes in flask. Routes are maps in Flask.
+This project is a **basic Flask application** that demonstrates how to use routes, templates, and redirects.  
+It’s a minimal example to show how Flask handles different URL endpoints.
 
-On this code:
-Which route is linked to a specific funcion or template; If the user go the page /user will be redirected to a page defined in Python Flask.
+---
 
-We are going to create routes to pages:
-- home
-- user
-- config
+## 🚀 Features
+- **Home Route (`/`)** → Renders an HTML template (`home.html`).
+- **User Route (`/user`)** → Redirects to your GitHub profile.
+- **Config Route (`/config`)** → Placeholder route (currently returns `None`).
+- Debug mode enabled for easy development.
 
-app.py - to see the code
+---
+
+## 📂 Project Structure
+- app.py
