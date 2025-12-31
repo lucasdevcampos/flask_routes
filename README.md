@@ -8,4 +8,6 @@ We are going to create routes to pages:
 - user
 - config
 
-If the user go the page /user will be redirected to a page defined in Python Flask.
+Function: If the user go the page /user will be redirected to a page defined in Python Flask.
+
+app.py - to see the code
