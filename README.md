@@ -7,7 +7,7 @@ It’s a minimal example to show how Flask handles different URL endpoints.
 
 ## 🚀 Features
 - **Home Route (`/`)** → Renders an HTML template (`home.html`).
-- **User Route (`/user`)** → Redirects to your GitHub profile.
+- **User Route (`/user`)** → Redirects to my GitHub profile.
 - **Config Route (`/config`)** → Placeholder route (currently returns `None`).
 - Debug mode enabled for easy development.
 
